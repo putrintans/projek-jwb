@@ -1,0 +1,51 @@
+[
+    {
+        "maskapai": "Adam Air",
+        "asal": "Soekarno-Hatta (CGK)",
+        "tujuan": "Sultan Iskandarmuda (BTJ)",
+        "harga": 2000000,
+        "pajak": "120000",
+        "total": 2120000
+    },
+    {
+        "maskapai": "Batik",
+        "asal": "Husein Sastranegara (BDO)",
+        "tujuan": "Sultan Iskandarmuda (BTJ)",
+        "harga": 100000,
+        "pajak": 100000,
+        "total": 200000
+    },
+    {
+        "maskapai": "Batik",
+        "asal": "Soekarno-Hatta (CGK)",
+        "tujuan": "Hasanuddin (UPG)",
+        "harga": 890000,
+        "pajak": 120000,
+        "total": 1010000
+    },
+    {
+        "maskapai": "Citilink",
+        "asal": "Soekarno-Hatta (CGK)",
+        "tujuan": "Sultan Iskandarmuda (BTJ)",
+        "harga": "890000",
+        "pajak": 120000,
+        "total": 209000
+    },
+    {
+        "maskapai": "Garuda Indonesia",
+        "asal": "Soekarno-Hatta (CGK)",
+        "tujuan": "Ngurah Rai (DPS)",
+        "harga": 1500000,
+        "pajak": 130000,
+        "total": 1630000
+    },
+    {
+        "maskapai": null,
+        "asal": null,
+        "tujuan": null,
+        "harga": null,
+        "pajak": null,
+        "total": null
+    },
+    null
+]
